@@ -174,7 +174,8 @@ figcaption {
     grid-column: 1 / span 3;
     font-size: 2em;
   }
-  #hobbies #about {
+  #hobbies,
+  #about {
     font-size: 2em;
   }
 }
