@@ -139,6 +139,7 @@ figcaption {
 #maincontenthome p {
   text-align: center;
   font-style: italic;
+  font-size: 2em;
 }
 
 /*Media Query for Mobile Viewport. */
@@ -184,4 +185,11 @@ figcaption {
   body {
     background-color: white;
   }
+}
+h2 {
+  text-align: center;
+  /*color: rgb(80, 65, 4);
+  text-shadow: 2px 2px 5px gold;*/
+  font-size: 2em;
+  font-style: italic;
 }
